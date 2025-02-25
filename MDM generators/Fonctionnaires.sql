@@ -3,7 +3,6 @@ CREATE TABLE Fonctionnaires (
     nom VARCHAR(100) NOT NULL,
     prenom VARCHAR(100) NOT NULL,
     type_fonctionnaire VARCHAR(100) NOT NULL,
-    departement_id INT,
     email VARCHAR(255) NOT NULL,
     etudiant_id INT,
     date_embauche DATE,
