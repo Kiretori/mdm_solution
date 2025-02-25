@@ -6,6 +6,7 @@
         "program_etude": "",
         "date_inscription": "date_inscription",
         "date_diplome": "",
+        "fonctionnaire_id": "",
         "email": "email"
     },
     "fonctionnaires": {
