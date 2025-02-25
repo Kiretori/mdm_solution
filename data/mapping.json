@@ -9,6 +9,19 @@
         "email": "email"
     },
     "fonctionnaires": {
-        
+        "fonctionnaire_id": "id",
+        "nom": "nom",
+        "prenom": "prenom",
+        "type_fonctionnaire": "",
+        "email": "email",
+        "etudiant_id": "",
+        "date_embauche": "date_embauche"
+    },
+    "services": {
+        "service_id": "id",
+        "nom": "nom",
+        "description": "description",
+        "type": "type",
+        "date_creation": ""
     }
 }
