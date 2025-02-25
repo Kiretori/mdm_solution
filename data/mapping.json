@@ -1,6 +1,14 @@
 {
     "etudiants": {
-        "etudiant_id": "id"
-
+        "etudiant_id": "id",
+        "nom": "nom",
+        "prenom": "prenom",
+        "program_etude": "",
+        "date_inscription": "date_inscription",
+        "date_diplome": "",
+        "email": "email"
+    },
+    "fonctionnaires": {
+        
     }
 }
